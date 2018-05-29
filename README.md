@@ -4,4 +4,5 @@ Course notes prepared from Andrew NG Deep Learning Specialization. Sharing diagr
 Free to share and contribute.
 
 Notes website: http://pradeeppant.com
+
 Deep learning Specialization completion certificate: https://www.coursera.org/account/accomplishments/specialization/WVPVCUMH94YS
