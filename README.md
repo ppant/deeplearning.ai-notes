@@ -1,7 +1,7 @@
 # Deep Learning Specialization Course Notes
 
 
-Deep Learning Specialization (overview 5 Courses)
+**Deep Learning Specialization (overview 5 Courses)**
 
 **Note:** These are my personal notes which I prepared during deep learning specialization taught by AI guru Andrew NG. I have used diagrams and code snippets whenever needed but following The Honor Code. Please note that most of the places I am not following the exact mathematical symbol and notation, instead just using plain english name this is for just to save some time also please note that this is a personal diary made during course and in any form doesn't replace the content and learning process one follow during course including quiz, programming assignments, project etc. It is a great course and I encourage you to take it. 
 
@@ -21,6 +21,7 @@ CNN are often apply in images manily in computer vision problems. In this course
 
 **Natural Language Processing-Building Sequence Models:**
 In this course we'll learn about algorithms like Recurrent Neural Network (RNN's), LSTM (Long Short Term Memory) and learn how to apply them with sequence of data like natural language processing, speech recognition, music generation etc.
+
 
 
 Happy learning!
