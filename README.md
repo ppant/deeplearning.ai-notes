@@ -6,7 +6,7 @@ Note: These are my personal notes which I prepared during deep learning speciali
 
 What you will learn at the end of the specialization:
 
-**Neural networks and deep learning** 
+##**Neural Networks and Deep Learning**## 
 Foundations of neural networks and deep learning. how to build and train. At the end of this course you will in position to recognize cat so will make a cat recognizer.
 
 **Improving Deep Neural Networks:**
