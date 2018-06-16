@@ -2,7 +2,8 @@
 
 
 Deep Learning Specialization (overview 5 Courses)
-Note: These are my personal notes which I prepared during deep learning specialization taught by AI guru Andrew NG. I have used diagrams and code snippets whenever needed but following The Honor Code. Please note that most of the places I am not following the exact mathematical symbol and notation, instead just using plain english name this is for just to save some time also please note that this is a personal diary made during course and in any form doesn't replace the content and learning process one follow during course including quiz, programming assignments, project etc. It is a great course and I encourage you to take it. 
+
+**Note:** These are my personal notes which I prepared during deep learning specialization taught by AI guru Andrew NG. I have used diagrams and code snippets whenever needed but following The Honor Code. Please note that most of the places I am not following the exact mathematical symbol and notation, instead just using plain english name this is for just to save some time also please note that this is a personal diary made during course and in any form doesn't replace the content and learning process one follow during course including quiz, programming assignments, project etc. It is a great course and I encourage you to take it. 
 
 What you will learn at the end of the specialization:
 
