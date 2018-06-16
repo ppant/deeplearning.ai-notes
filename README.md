@@ -22,13 +22,14 @@ CNN are often apply in images manily in computer vision problems. In this course
 **Natural Language Processing-Building Sequence Models:**
 In this course we'll learn about algorithms like Recurrent Neural Network (RNN's), LSTM (Long Short Term Memory) and learn how to apply them with sequence of data like natural language processing, speech recognition, music generation etc.
 
+
 Happy learning!
 
 Free to share and contribute.
 
 
-Notes website: http://pradeeppant.com
+**Notes website:** http://pradeeppant.com
 
-Deep learning Specialization completion certificate: https://www.coursera.org/account/accomplishments/specialization/WVPVCUMH94YS
+**Deep learning Specialization completion certificate:** https://www.coursera.org/account/accomplishments/specialization/WVPVCUMH94YS
 
-Deep Learning Specialization: https://www.deeplearning.ai/
+**Deep Learning Specialization:** https://www.deeplearning.ai/
