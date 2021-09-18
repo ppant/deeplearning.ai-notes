@@ -22,6 +22,8 @@ This is one of the most important topic in deep leanring. CNN is often applied i
 **Natural Language Processing-Building Sequence Models:**
 In this course, we'll learn about algorithms like Recurrent Neural Network (RNN's), LSTM (Long Short-Term Memory) and learn how to apply them with the sequence of data like natural language processing, speech recognition, music generation etc.
 
+Update 18/09/2021:
+I am preparing Anki cards for the same. Checkout first draft [here](https://github.com/ppant/anki/blob/main/PP__DL%20Specialization%20-%20Coursera.apkg)
 
 
 Happy learning!
