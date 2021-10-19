@@ -1,7 +1,7 @@
 # Deep Learning Specialization Course Notes
 
 
-**Deep Learning Specialization (overview 5 Courses)**
+**Deep Learning Specialization (Overview 5 Courses)**
 
 **Note:** These are my personal notes which I have prepared during Deep Learning Specialization taught by AI guru Andrew NG. I have used diagrams and code snippets from the course videos whenever needed fully following The Honor Code. Please note that on most of the places I am not following the exact mathematical symbol and notation, instead just using plain English notation, this is just to save some time while preparing the notes, also please note that this is a personal diary made during course and its a bit bit lengthy in some places. These notes in any form doesn't replace the content and learning process one follows during the course including quiz, programming assignments, project etc. It is a great course and I encourage you to take it.
 
@@ -32,6 +32,6 @@ Free to share and contribute.
 
 *************************************************************************************************************************************
 
-**Deep learning Specialization completion certificate:** https://www.coursera.org/account/accomplishments/specialization/WVPVCUMH94YS
+**My Deep learning Specialization completion certificate:** https://www.coursera.org/account/accomplishments/specialization/WVPVCUMH94YS
 
 **Deep Learning Specialization:** https://www.deeplearning.ai/
